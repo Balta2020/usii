@@ -1,0 +1,8 @@
+
+#EXTM3U
+#EXTINF: 1, Tigo Sports
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1,  Amistoso
+https://neuclnlds141dal.akamaized.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?h=75fd9f28f02212eb860f6377bc45b20e.1623282396080&hdnea=exp=1623282516~acl=/*~hmac=1E724C31BEF7C03604C4A166F3C7FE30E6535DD1CE9C0A50EA3B11DE3166794B&dfpkey=bQ2JGGVzTpqfCfcTZWay1Q&nltid=univisionnow&nltdt=0
+#EXTINF: 1, Bélgica vs Croacia
+https://ft33pgzx58.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=nXL-85RVv4uKP0qMuvX0Zw&e=1623017146
